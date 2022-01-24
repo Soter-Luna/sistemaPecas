@@ -19,7 +19,7 @@ if (numeroPecas < 10) {
     console.log("Não tem espaço disponivel na caixa!!!")
 }
 
-let nomePeca = "Disco de Freio"
+let nomePeca = "Disco"
 
 console.log("O comprimento do nome da peça é: ", nomePeca.length)
 
